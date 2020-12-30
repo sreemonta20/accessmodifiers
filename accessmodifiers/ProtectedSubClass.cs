@@ -14,6 +14,7 @@ namespace accessmodifiers
          * That means that methods can be accessed within that class and from the classes, 
          * which actually inherit that class.
          */
+
         ProtectedSubClass()
         {
             this._val = 10;

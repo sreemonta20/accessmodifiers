@@ -11,6 +11,7 @@ namespace accessmodifiers
         public void bd()
         {
             PrivateClass obb = new PrivateClass();
+
             obb.st();
         }
     }

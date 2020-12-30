@@ -14,7 +14,6 @@ namespace accessmodifiers
          * if the class is inheriting the super class. That is why we use Protected Internal access modifier.
          */
 
-
         protected internal string name; // protected internal
         protected internal void print()
         {

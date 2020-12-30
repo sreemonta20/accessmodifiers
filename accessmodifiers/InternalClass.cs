@@ -15,6 +15,7 @@ namespace accessmodifiers
         internal void MethodInternal()
         {
             Console.WriteLine("Internal Method\n\n");
+
         }
     }
 }

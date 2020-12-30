@@ -13,7 +13,6 @@ namespace accessmodifiers
 
             Console.WriteLine("Private Method  [Invalid Code Access due to Protection level]");
             
-            
         }
 
         public void st()
